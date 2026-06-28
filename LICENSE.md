@@ -1,4 +1,4 @@
-# 
+# 自动 dexscreener sniper bot 工具 Mac OS版 | 极速 dexscreener sniper bot 工具 PC Windows版。集成 成交量分析 和 快速内存池访问，跨平台性能最大化。
 
 
 
